@@ -1,1 +1,1 @@
-# tic-tac-toe
+Before implementing the game search the rules.
